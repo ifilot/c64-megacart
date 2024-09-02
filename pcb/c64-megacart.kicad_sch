@@ -5,7 +5,8 @@
 	(uuid "b20c5a76-17ce-406a-9f76-0bfa4015a14c")
 	(paper "A4")
 	(title_block
-		(date "2021-08-15")
+		(title "C64 MegaCartridge")
+		(date "2024-08-28")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x03_Odd_Even"
